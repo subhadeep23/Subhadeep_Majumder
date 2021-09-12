@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series Analysis on Subhadeep Majumder</title>
+    <link>https://subhadeep23.github.io/Subhadeep_Majumder/tags/time-series-analysis/</link>
+    <description>Recent content in Time Series Analysis on Subhadeep Majumder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 13:57:05 +0530</lastBuildDate><atom:link href="https://subhadeep23.github.io/Subhadeep_Majumder/tags/time-series-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Forest Fires in Amazon</title>
+      <link>https://subhadeep23.github.io/Subhadeep_Majumder/works/project-1/</link>
+      <pubDate>Sun, 05 Sep 2021 13:57:05 +0530</pubDate>
+      
+      <guid>https://subhadeep23.github.io/Subhadeep_Majumder/works/project-1/</guid>
+      <description>  In this project I try to understand the patterns followed by the forest fires in the Amazon rain forest, possible factors-seasons,etc. affecting it and forecast to find what awaits in the future.
+Way to The Github Repository
+ </description>
+    </item>
+    
+  </channel>
+</rss>
